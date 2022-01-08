@@ -16,7 +16,7 @@
 
 Hi, I'm [Aravind N](https://aravindn.netlify.app/). A Software Engineer with a flair for platforms for scale, performance and UX. Strive for innovations that can blend the power of hardware and software, that can eventually help make this world a better place. 
 
-  <img align="right" alt="GIF" src="./assets/coding.svg" width="400" height="200" />
+  <img align="right" alt="GIF" src="./assets/coding.svg" width="400" height="220" />
 
 ### Talking about Personal Stuffs:
 
