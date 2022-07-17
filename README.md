@@ -29,7 +29,7 @@ Hi, I'm [Aravind N](https://aravindn.netlify.app/). A Software Engineer with a f
 - 📮 &nbsp; Mail me here: arvindnswamy@gmail.com
 <br/>
 <br/>
-<br/>
+<br/> 
 
 <div align="center">
 
