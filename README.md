@@ -1,4 +1,4 @@
-#### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+#### Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 <br/>
 <a href="https://aravindn.netlify.app/">
   <img align="left" alt="Aravind's Portfolio" width="30px" src="./assets/my-emoji.png" />
